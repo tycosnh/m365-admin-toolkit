@@ -1,0 +1,15 @@
+# Never commit secrets or client data
+*.pfx
+*.cer
+*.pem
+*.key
+*.ppk
+id_rsa*
+ssh_host_*
+*.csv
+*.xlsx
+Reports/
+*.log
+tenants.json
+*.intunewin
+*.exe
